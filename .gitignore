@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+2011_locations.txt
+genres.list
+inputs/
+locations.list
+movies.list
+ratings.list
+test.txt
